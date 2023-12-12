@@ -1,2 +1,1 @@
-# Hotel-Management-System-
-A simple hotel management system using C language. 
+This C program represents a basic Hotel Management System with a menu-driven interface. It allows users to book rooms, check room availability, and display customer information. The system supports ten rooms, and each booked room stores customer details. The code employs simple structures to organize customer information and room status efficiently. Users navigate through the menu to perform tasks, providing a fundamental tool for managing hotel operations with features for booking, checking availability, and retrieving customer details. The program offers a concise solution for small-scale hotel management needs.
